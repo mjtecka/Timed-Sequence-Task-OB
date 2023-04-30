@@ -1,4 +1,6 @@
 # Timed-Sequence-Task-OB
+[![DOI](https://zenodo.org/badge/634538608.svg)](https://zenodo.org/badge/latestdoi/634538608)
+
 Operant box codes for Timed Sequence Task
 
 Set of codes for standard operant boxes equipped with two fixed levers and a feeder  (Med Associates, MED-307A-B1) and operated by Med-PC V software. The code is based on a code originally provided by MedAssociates (MEDLab8 Chain). 
